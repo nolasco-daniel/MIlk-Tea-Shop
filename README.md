@@ -15,5 +15,7 @@ Designed for milk tea shops, this system helps staff and admins process orders, 
 👤 User Roles – Separate logins for cashier and admin.
 
 🖥️ Tech Stack
+
 Python 🐍
+
 Tkinter / PyQt (for UI)
