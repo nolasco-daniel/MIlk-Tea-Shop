@@ -1,6 +1,9 @@
 🧋 Milk Tea Shop POS
+
 A Python-based Point of Sale System with GUI
+
 A desktop Point of Sale (POS) system built in Python with a graphical user interface.
+
 Designed for milk tea shops, this system helps staff and admins process orders, manage inventory, and track sales with ease.
 
 🚀 Features
