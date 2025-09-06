@@ -5,9 +5,13 @@ Designed for milk tea shops, this system helps staff and admins process orders, 
 
 🚀 Features
 🛍 Order Management – Take customer orders with flavors, toppings, and sizes.
+
 💵 Billing System – Auto-calculates totals and change.
+
 📋 Menu & Inventory – Add/remove products and manage stock.
+
 📊 Sales Reports – View daily, weekly, or monthly transactions.
+
 👤 User Roles – Separate logins for cashier and admin.
 
 🖥️ Tech Stack
